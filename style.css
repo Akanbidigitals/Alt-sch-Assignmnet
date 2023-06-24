@@ -372,13 +372,13 @@ nav {
 .box-1 {
   /* margin-left: -100px; */
   position: absolute;
-  left: 20.5%;
+  left: 17%;
   top: 14.5%;
   z-index: -2;
 }
 .box-3 {
   position: absolute;
-  right: 20%;
+  right: 14%;
   top: 14.5%;
   z-index: -2;
 }
